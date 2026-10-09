@@ -1,4 +1,6 @@
 package exercicio1oo.classes;
 
-public class Retangulo {
+class Retangulo {
+    double  largura;
+    double altura;
 }

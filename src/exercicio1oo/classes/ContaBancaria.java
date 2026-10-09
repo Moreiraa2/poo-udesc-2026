@@ -1,4 +1,8 @@
 package exercicio1oo.classes;
 
-public class contaBancaria {
+class ContaBancaria {
+    String numeroConta;
+    String Titular;
+    double saldo;
+
 }
