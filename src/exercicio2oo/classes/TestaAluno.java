@@ -1,6 +1,4 @@
-package exercicio1oo.classes;
-
-import java.sql.SQLOutput;
+package exercicio2oo.classes;
 
 public class TestaAluno {
     static void main(String[] args) {

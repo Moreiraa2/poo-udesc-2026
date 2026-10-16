@@ -1,4 +1,4 @@
-package exercicio1oo.classes;
+package exercicio2oo.classes;
 
 public class TestaCirculo {
     static void main(String[] args) {
