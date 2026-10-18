@@ -1,11 +1,13 @@
 package exercicio2oo.classes;
 
-class Livro {
+public class Livro {
 
-    String Titulo;
-    String Autor;
-    String Genero;
-    boolean Emprestado;
+    public String titulo;
+    public String autor;
+    public String genero;
+    public boolean emprestado;
 
+    public static void main(String[] args) {
 
+    }
 }

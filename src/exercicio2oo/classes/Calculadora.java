@@ -1,7 +1,10 @@
-package calculadora;
+package exercicio2oo.classes;
+
+
 public class Calculadora {
-    double n1, n2;
-    double resultado;
+    public double n1, n2;
+    public double resultado;
+
     public double somar() {
         resultado = n1 + n2;
         return resultado;
